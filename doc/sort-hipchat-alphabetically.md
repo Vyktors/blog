@@ -1,4 +1,4 @@
-## Sort Hipchat alphabetical
+# Sort Hipchat alphabetically
 
 Open NotePad++ as **Administrator**
 
