@@ -1,24 +1,24 @@
 # Sort Hipchat alphabetically
 
-Open NotePad++ as **Administrator**
+1. Open NotePad++ as **Administrator**
 
-On Windows, browse this file : 
+2. On Windows, browse this file : 
  
- ```
- C:\Program Files (x86)\Atlassian\HipChat4\hipcat-client.js
- ```
+   ```
+   C:\Program Files (x86)\Atlassian\HipChat4\hipchat-client.js
+   ```
  
-If you're on MacOS, browse this file :
- ```
- HipChat.app/Contents/Resources/chat.html
- ```
+   If you're on MacOS, browse this file :
+   ```
+   HipChat.app/Contents/Resources/chat.html
+   ```
  
-Add this line ...
- ```js
- rooms = _.sortBy(_.values(rooms), ['name']);
- ``` 
-... immediately after these lines:
- ```js
-  key: 'orderRooms',
-       value: function orderRooms(rooms) {
- ```
+3. Add this line ...
+   ```js
+   rooms = _.sortBy(_.values(rooms), ['name']);
+   ``` 
+     ... immediately after these lines:
+   ```js
+    key: 'orderRooms',
+         value: function orderRooms(rooms) {
+   ```
