@@ -5,7 +5,7 @@
 2. On Windows, browse this file : 
  
    ```
-   C:\Program Files (x86)\Atlassian\HipChat4\hipchat-client.js
+   C:\Program Files (x86)\Atlassian\HipChat4\localweb\hipchat-client.js
    ```
  
    If you're on MacOS, browse this file :
