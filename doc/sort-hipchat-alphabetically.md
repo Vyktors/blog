@@ -22,3 +22,4 @@
     key: 'orderRooms',
          value: function orderRooms(rooms) {
    ```
+4. After you're done, make sure to close Hipchat (right-click -> 'Quit' in the taskbar) and restart it.
