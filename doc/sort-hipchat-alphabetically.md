@@ -1,7 +1,8 @@
-# Sort Hipchat alphabetically
 
 1. Open NotePad++ as **Administrator**
-
+   
+   ![](/../img/doc1.PNG)
+   
 2. On Windows, browse this file : 
  
    ```
@@ -13,13 +14,21 @@
    HipChat.app/Contents/Resources/chat.html
    ```
  
-3. Add this line ...
+3. Immediately after these lines...
+   ```js
+   key: 'orderRooms',
+        value: function orderRooms(rooms) {
+   ```
+
+    Add this line if you want a simple **alphabetical** order
    ```js
    rooms = _.sortBy(_.values(rooms), ['name']);
    ``` 
-     ... immediately after these lines:
+   
+   **Or** these lines if you want to have every conversation with a notification on top with an alphabetical order
    ```js
-    key: 'orderRooms',
-         value: function orderRooms(rooms) {
+    var roomsByName = _.sortBy(_.values(rooms), ['name']).reverse();
+          rooms = _.sortBy(roomsByName, ['unreadCount']).reverse();
    ```
+   
 4. After you're done, make sure to close Hipchat (right-click -> 'Quit' in the taskbar) and restart it.
