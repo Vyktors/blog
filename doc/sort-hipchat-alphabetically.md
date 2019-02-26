@@ -28,7 +28,9 @@
    **Or** these lines if you want to have every conversation with a notification on top with an alphabetical order
    ```js
     var roomsByName = _.sortBy(_.values(rooms), ['name']).reverse();
-          rooms = _.sortBy(roomsByName, ['unreadCount']).reverse();
+    rooms = _.sortBy(roomsByName, ['unreadCount']).reverse();
    ```
    
-4. After you're done, make sure to close Hipchat (right-click -> 'Quit' in the taskbar) and restart it.
+4. After you're done, make sure to close Hipchat (right-click -> 'Quit HipChat' in the taskbar) and restart it.
+
+   ![](/../img/doc2.PNG)
