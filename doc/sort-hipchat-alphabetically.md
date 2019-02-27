@@ -3,7 +3,7 @@
    
    ![](/../img/doc1.PNG)
    
-2. On Windows, browse this file : 
+2. On Windows, browse this file (or the equivalent in your operating system language): 
  
    ```
    C:\Program Files (x86)\Atlassian\HipChat4\localweb\hipchat-client.js
