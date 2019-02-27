@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6370f653-b966-4704-bba7-2013bc538c1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/sort-hipchat-alphabetically.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/doc1.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/doc2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/doc3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fr/ameliorer-tri-hipchat.md" beforeDir="false" afterPath="$PROJECT_DIR$/fr/ameliorer-tri-hipchat.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/en/improve-hipchat-sorting.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <first_editor relative-caret-position="595">
+                <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -32,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/fr/ameliorer-tri-hipchat.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -82,7 +78,19 @@
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="en" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="fr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="fr" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -119,12 +127,12 @@
       <updated>1551212341870</updated>
       <workItem from="1551212343137" duration="3072000" />
       <workItem from="1551277370765" duration="965000" />
-      <workItem from="1551285558309" duration="749000" />
+      <workItem from="1551285558309" duration="2447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4786000" />
+    <option name="totallyTimeSpent" value="6484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -178,8 +186,8 @@
     <entry file="file://$PROJECT_DIR$/en/improve-hipchat-sorting.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <first_editor relative-caret-position="595">
+            <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
@@ -188,8 +196,8 @@
     <entry file="file://$PROJECT_DIR$/fr/ameliorer-tri-hipchat.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>

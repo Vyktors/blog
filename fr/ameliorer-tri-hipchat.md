@@ -6,7 +6,7 @@
 2. Sur Windows, ouvrir le fichier (ou l'équivalent du language de votre système d'exploitation): 
  
    ```
-   C:\Program Files (x86)\Atlassian\HipChat4\localweb\hipchat-client.js
+   C:\Fichiers de programme (x86)\Atlassian\HipChat4\localweb\hipchat-client.js
    ```
  
    Si vous êtes sur MacOS, ouvrir ce fichier:
