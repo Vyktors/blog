@@ -33,4 +33,4 @@
    
 4. After you're done, make sure to close Hipchat (right-click -> 'Quit HipChat' in the taskbar) and restart it.
 
-   ![](/../img/doc2.PNG)
+   ![](/img/doc2.PNG)
