@@ -1,7 +1,7 @@
-
+# How to improve Hipchat sorting
 1. Open NotePad++ as **Administrator**
    
-   ![](/../img/doc1.PNG)
+   ![](/img/doc1.PNG)
    
 2. On Windows, browse this file (or the equivalent in your operating system language): 
  
