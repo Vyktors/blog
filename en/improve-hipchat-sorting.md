@@ -1,4 +1,11 @@
-
+---
+layout: post
+title:  "How to improve Hipchat sorting"
+ref: welcome
+date:   2019-02-27 22:40:44 +0100
+categories: tips
+lang: en
+---
 # How to improve Hipchat sorting
 1. Open NotePad++ as **Administrator**
    
