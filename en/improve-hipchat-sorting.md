@@ -22,7 +22,7 @@ lang: en
    HipChat.app/Contents/Resources/chat.html
    ```
  
-3. Immediately after these lines...
+3. Immediately after these lines:
    ```js
    key: 'orderRooms',
         value: function orderRooms(rooms) {
