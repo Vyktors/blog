@@ -1,4 +1,5 @@
 *SUP
 ```diff
-PATH IN RED
++ PATH IN RED
+- ANOTHER ONE
 ```
