@@ -1,0 +1,20 @@
+remote_theme: Vyktors/cayman
+
+##Site settings
+#title:
+#  en: Vyktors Title EN
+#  fr: Vyktors Title FR
+#email: victorguerin19@gmail.com
+#description:
+#  en: DESCRIPTION EN
+#  fr: DESCRIPTION FR
+#index:
+#  en: index.html
+#  fr: accueil.html
+#
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
+#url: "http://skilkav.com" # the base hostname & protocol for your site
+#github_username:  vyktors
+#
+## Build settings
+#markdown: kramdown
