@@ -1,11 +1,3 @@
----
-layout: post
-title:  "Comment améliorer le tri sur Hipchat"
-ref: welcome
-date:   2019-02-27 22:40:44 +0100
-categories: tips
-lang: fr
----
 # Comment améliorer le tri sur Hipchat
 1. Ouvrir NotePad++ en tant qu'**Administrateur**
    
